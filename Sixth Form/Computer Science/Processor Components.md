@@ -13,7 +13,7 @@ aliases:
 
 > OCR A Level Computer Science (H446 – Paper 1)
 > Unit 1: Components of a computer and their uses
-
+ss
 ---
 
 ## Central Processing Unit (CPU)

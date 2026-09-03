@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Urgent/Next day
 
+- [ ] Pack camera
+
 
 ## One week
 
