@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Revision/⚗️Chemistry revision/Paper 2/Topic 6, Chemical change")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.folder
