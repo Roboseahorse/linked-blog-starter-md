@@ -15,7 +15,6 @@ aliases:
 > Unit 1: Components of a computer and their uses
 
 ---
-ab
 ## Central Processing Unit (CPU)
 
 > [!NOTE] Definition

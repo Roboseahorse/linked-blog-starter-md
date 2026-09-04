@@ -2,7 +2,7 @@
 title: "linked-blog-starter does not reinvent the wheel"
 date: 2022-12-12
 ---
-I'm not a fan of [[publish/reinventing-the-wheel|reinventing the wheel]], thus, I've searched for the best libraries out there to help me make this website. Here are a few external libraries I used:
+I'm not a fan of [[publish/publish/reinventing-the-wheel|reinventing the wheel]], thus, I've searched for the best libraries out there to help me make this website. Here are a few external libraries I used:
 
 ## Converting MD to HTML
 - [obsidian-export](https://github.com/zoni/obsidian-export) (Obsidian MD -> [Common MD](https://commonmark.org/))
@@ -10,4 +10,4 @@ I'm not a fan of [[publish/reinventing-the-wheel|reinventing the wheel]], thus, 
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) (HTML -> Beautiful HTML)
 
 ## Others:
-- Obsidian Git to help with [[publish/connect-obsidian-vault-with-github|publishing notes from within the Obsidian Vault]]
+- Obsidian Git to help with [[publish/publish/connect-obsidian-vault-with-github|publishing notes from within the Obsidian Vault]]
