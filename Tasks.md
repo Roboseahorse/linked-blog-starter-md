@@ -6,12 +6,11 @@ kanban-plugin: board
 
 ## Urgent/Next day
 
-- [ ] Pack camera
-
 
 ## One week
 
-
+- [ ] Maths ⏫ 🛫 2026-08-04 📅 2026-08-07
+	- On onenote binomial expansion
 
 ## WEEK+
 
@@ -22,7 +21,7 @@ kanban-plugin: board
 **Complete**
 - [x] ajkhds ✅ 2026-09-03
 - [x] Homework ✅ 2026-09-03
-
+- [x] Pack camera ✅ 2026-09-04
 
 
 
