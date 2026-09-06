@@ -6,11 +6,10 @@ kanban-plugin: board
 
 ## Urgent/Next day
 
-
-## One week
-
 - [ ] Maths ⏫ 🛫 2026-08-04 📅 2026-08-07
 	- On onenote binomial expansion
+
+## One week
 
 ## WEEK+
 
