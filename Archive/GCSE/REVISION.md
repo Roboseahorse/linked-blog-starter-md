@@ -1,3 +1,3 @@
-[[GCSE/Physics/Physics]]
+[[Archive/GCSE/Revision/Physics/Physics]]
 [[Chemistry revision]]
 [[Biology revision]]

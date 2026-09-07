@@ -3,8 +3,8 @@ date: 2026-09-03
 tags:
   - computer-science
   - unit1
-  - architecture
   - cpu
+  - processor-performance
 aliases:
   - CPU Components
   - Processor Components (OCR Unit 1)

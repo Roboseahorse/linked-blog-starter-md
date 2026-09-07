@@ -67,4 +67,4 @@ tags:
 
 
 ---
-# Finished for [[GCSE/Revision/🔬Physics/Paper 1/LINKS/Physics Paper 1]]
+# Finished for [[Archive/GCSE/Revision/🔬Physics/Paper 1/LINKS/Physics Paper 1]]
