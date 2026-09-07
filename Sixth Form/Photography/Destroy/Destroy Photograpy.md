@@ -1,3 +1,4 @@
 ## Destroy_Nature
 #Destroy_Nature 
-![[Destroyed medium#Shoot plan]]
+## Destroying the medium
+![[Destroying the medium#^aac6c0]]

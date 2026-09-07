@@ -1,4 +1,31 @@
----
+Let me broaden the search a bit.
+
+I found it. Let me read the file you mentioned.
+
+Here's a quick summary of your **[[Processor Components]]** note (OCR A Level Computer Science, Unit 1):
+
+## Overview
+The note covers the components that make up the **CPU** and how they work together to execute instructions.
+
+## Key Components
+- **Control Unit** — coordinates all other components (conductor analogy), sends signals along the control bus.
+- **System Bus** — made up of three separate buses: **Control** (signals), **Data** (data), and **Address** (memory addresses).
+- **ALU** — the "problem-solving" part: arithmetic, logical (AND/OR/NOT/XOR), and shift operations.
+- **Accumulator** — a fast general-purpose register for intermediate working results.
+
+## Dedicated Registers (5 exam-critical ones)
+| Register | Role |
+|---|---|
+| **PC** | Address of next instruction |
+| **CIR** | Current instruction (opcode + operand) |
+| **MAR** | Memory address to fetch/store |
+| **MDR** | Data moving between processor and memory |
+| **Accumulator** | Intermediate results |
+
+## Fetch-Execute Cycle
+`Fetch → Decode → Execute → repeat` — with detailed step-by-step breakdown (PC→MAR→MDR→CIR, then decode/opcode-operand split, then execute).
+
+The note ends with a **plenary of self-check questions** and links to related notes, including [[Fetch-Execute Cycle]] and [[Control Unit]]. It looks like a solid, well-structured revision note — nicely set up for exam prep. Would you like me to expand or clarify any section?---
 date: 2026-09-03
 tags:
   - computer-science
