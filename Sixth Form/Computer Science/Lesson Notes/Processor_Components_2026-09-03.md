@@ -1,21 +1,34 @@
+---
+tags:
+  - computer-science
+  - cpu
+  - cpu-components
+  - a-level
+aliases:
+  - CPU
+  - Central Processing Unit
+  - Computer Architecture
+  - Processor Components
+---
+
 ## Central Processing Unit (CPU)
 
 > [!NOTE] Definition
-> The **processor** (a.k.a. the [[Central Processing Unit (CPU)]]) is made up of several distinct components, each with its own role.
+> The **processor** (a.k.a. the **Central Processing Unit (CPU)**) is made up of several distinct components, each with its own role.
 
-- [[Control Unit]]
-- [[System Bus|Buses]]
-- [[Arithmetic-Logic Unit (ALU)]]
-- [[Dedicated Registers|Dedicated registers]]
+- [[#Control Unit]]
+- [[#System Bus|Buses]]
+- [[#Arithmetic-Logic Unit (ALU)]]
+- [[#Dedicated Registers|Dedicated registers]]
 
 ---
 
 ## Control Unit
 
 > [!IMPORTANT] Core takeaway
-> The **[[Control Unit]]** coordinates the activity of *all* other CPU components — like a conductor directing an orchestra.
+> The **Control Unit** coordinates the activity of *all* other CPU components — like a conductor directing an orchestra.
 
-- Sends control signals along the **[[System Bus|control bus]]**
+- Sends control signals along the **[[#System Bus|control bus]]**
 - Connects the control unit to other computer components
 
 ---
@@ -32,7 +45,7 @@
 
 ## System Bus
 
-The **[[System Bus]]** is made up of three separate buses:
+The **System Bus** is made up of three separate buses:
 
 | Bus | Carries |
 |---|---|
@@ -40,7 +53,7 @@ The **[[System Bus]]** is made up of three separate buses:
 | **Data Bus** | Data |
 | **Address Bus** | Memory addresses |
 
-- Connects the [[Central Processing Unit (CPU)|Processor]], **Input/Output**, and **Memory**
+- Connects the [[#Central Processing Unit (CPU)|Processor]], **Input/Output**, and **[[Computer Science 07-09-26#Words|Memory]]**
 
 ### Control Signals Include…
 
@@ -55,7 +68,7 @@ The **[[System Bus]]** is made up of three separate buses:
 ## Arithmetic-Logic Unit (ALU)
 
 > [!NOTE] Definition
-> The **[[Arithmetic-Logic Unit (ALU)]]** is the "problem-solving" part of the processor — it performs arithmetic, logical, and shift operations.
+> The **Arithmetic-Logic Unit (ALU)** is the "problem-solving" part of the processor — it performs arithmetic, logical, and shift operations.
 
 - **Arithmetic operations:** Add, Subtract, Multiply, Divide
 - **Logical operations:** AND, OR, NOT, XOR
@@ -65,9 +78,9 @@ The **[[System Bus]]** is made up of three separate buses:
 ## The Accumulator
 
 > [!IMPORTANT] Why it matters
-> Writing every intermediate result back to "slow" memory would be inefficient. Instead, the CPU uses super-fast **[[Dedicated Registers|registers]]** to store working data temporarily.
+> Writing every intermediate result back to "slow" memory would be inefficient. Instead, the CPU uses super-fast **[[#Dedicated Registers|registers]]** to store working data temporarily.
 
-- The **[[Accumulator]]** is a general-purpose register
+- The **Accumulator** is a general-purpose register
 - Holds intermediate/working results (e.g. building up `2 + 3 + 4`)
 - Allows immediate re-use of results in later calculations
 
@@ -83,14 +96,14 @@ To carry out a sequence of instructions, the processor must temporarily hold:
 - The **address of the next instruction**
 
 > [!NOTE] Analogy
-> The [[Control Unit]] coordinates all of this — like a conductor controlling every section of an orchestra.
+> The [[#Control Unit]] coordinates all of this — like a conductor controlling every section of an orchestra.
 
 ---
 
 ## Dedicated Registers
 
 > [!IMPORTANT] Exam-critical definitions
-> These five registers appear constantly in exam questions on the [[Fetch-Execute Cycle]].
+> These five registers appear constantly in exam questions on the [[#Fetch-Execute Cycle]].
 
 | Register                                   | Role                                                                   |
 | ------------------------------------------ | ---------------------------------------------------------------------- |
@@ -98,7 +111,7 @@ To carry out a sequence of instructions, the processor must temporarily hold:
 | **[[Current Instruction Register (CIR)]]** | Holds the *current* instruction, split into **opcode** and **operand** |
 | **[[Memory Address Register (MAR)]]**      | Holds the address in memory to fetch/store data from or to             |
 | **[[Memory Data Register (MDR)]]**         | Temporarily holds data moving between processor and main memory        |
-| **[[Accumulator]]**                        | Holds intermediate results of an instruction                           |
+| **[[#The Accumulator\|Accumulator]]**                        | Holds intermediate results of an instruction                           |
 |                                            |                                                                        |
 
 ---
@@ -106,7 +119,7 @@ To carry out a sequence of instructions, the processor must temporarily hold:
 ## Fetch-Execute Cycle
 
 > [!NOTE] Definition
-> The **[[Fetch-Execute Cycle]]** describes the repeating stages a processor uses to carry out program instructions — repeated for *every* instruction in a program.
+> The **Fetch-Execute Cycle** describes the repeating stages a processor uses to carry out program instructions — repeated for *every* instruction in a program.
 
 ```
 Fetch → Decode → Execute → (repeat)
@@ -122,7 +135,7 @@ Fetch → Decode → Execute → (repeat)
 
 5. Instruction in [[Current Instruction Register (CIR)|CIR]] is decoded
 6. Split into **opcode** and **operand** to determine instruction type; extra data fetched from memory if needed
-7. Data passed to the [[Accumulator]]
+7. Data passed to the [[#The Accumulator|Accumulator]]
 
 > [!NOTE] Opcode vs Operand
 > - **Opcode** — specifies the operation to carry out
@@ -133,7 +146,7 @@ Fetch → Decode → Execute → (repeat)
 ### Execute (Step 8)
 
 8. Instruction is executed
-	- Result held in the [[Accumulator]], **or**
+	- Result held in the [[#The Accumulator|Accumulator]], **or**
 	- Result sent/stored to main memory
 
 ---
@@ -141,16 +154,14 @@ Fetch → Decode → Execute → (repeat)
 ## Plenary — Self-Check Questions
 
 > [!QUESTION] Can you answer these?
-> - What are the four main components of the processor? → [[Arithmetic-Logic Unit (ALU)|ALU]], [[Control Unit]], [[Dedicated Registers|registers]], [[System Bus]]
+> - What are the four main components of the processor? → [[#Arithmetic-Logic Unit (ALU)|ALU]], [[#Control Unit]], [[#Dedicated Registers|registers]], [[#System Bus]]
 > - Name the **three buses** making up the system bus
-> - Name the **five special registers** involved in the [[Fetch-Execute Cycle]]
+> - Name the **five special registers** involved in the [[#Fetch-Execute Cycle]]
 
 ---
 
 ## Related Notes
-- [[Central Processing Unit (CPU)]]
-- [[Control Unit]]
-- [[Arithmetic-Logic Unit (ALU)]]
-- [[System Bus]]
-- [[Fetch-Execute Cycle]]
-- [[Dedicated Registers]]
+- [[Computer Science 07-09-26]]
+- [[Processor Performance 2026-09-07]]
+- [[#Fetch-Execute Cycle]]
+- [[#Dedicated Registers]]

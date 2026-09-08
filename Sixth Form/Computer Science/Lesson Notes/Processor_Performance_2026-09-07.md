@@ -10,6 +10,11 @@ aliases:
   - Processor Performance
 ---
 
+> [!question] Do Now
+>DN: how do the machine do instructions relate to assembly language programs?
+>
+[[Assembly Language]] is translated using a compiler into machine code that the computer can understand
+
 ## Processor Performance
 
 > [!NOTE]
@@ -78,7 +83,7 @@ Example:
 
 ### 2. Number of Cores
 - Modern processors often contain multiple cores.
-- Each core can run its own fetch-execute cycle.
+- Each core can run its own [[Processor Components 2026-09-03#Fetch-Execute Cycle|fetch-execute cycle]].
 
 | Processor Type | Number of Cores |
 | -------------- | --------------- |
@@ -155,7 +160,7 @@ Example:
 
 ## Related Notes
 - [[CPU]]
-- [[Fetch Execute Cycle]]
-- [[Memory]]
+- [[Processor Components 2026-09-03#Fetch-Execute Cycle|Fetch-Execute Cycle]]
+- [[Computer Science 07-09-26#Words|Memory]]
 - [[Assembly Language]]
 - [[Computer Architecture]]
