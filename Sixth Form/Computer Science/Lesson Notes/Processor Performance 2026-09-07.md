@@ -1,4 +1,4 @@
----
+----
 date: 2026-09-07
 tags:
   - computer-science
@@ -13,7 +13,8 @@ aliases:
 > [!question] Do Now
 >DN: how do the machine do instructions relate to assembly language programs?
 >
-[[Assembly Language]] is translated using a compiler into machine code that the computer can understand
+> > [!check] Answer
+> Assembly language is translated using a compiler into machine code that the computer can understand.
 
 ## Processor Performance
 
