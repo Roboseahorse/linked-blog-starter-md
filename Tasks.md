@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Urgent/Next day
 
-- [ ] The little man computer
-
 
 ## One week
 
@@ -29,6 +27,7 @@ kanban-plugin: board
 - [x] Homework ✅ 2026-09-03
 - [x] Pack camera ✅ 2026-09-04
 - [x] - Maths ⏫ 🛫 2026-08-04 📅 2026-08-07 ✅ 2026-09-07
+- [x] The little man computer ✅ 2026-09-07
 
 
 

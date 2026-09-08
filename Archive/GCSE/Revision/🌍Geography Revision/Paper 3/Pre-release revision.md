@@ -1,3 +1,4 @@
+#geography 
 - North and north west is wetter
 - south and south east is highly populated
 - effective rainfall can be below 200 mm in eastern England
