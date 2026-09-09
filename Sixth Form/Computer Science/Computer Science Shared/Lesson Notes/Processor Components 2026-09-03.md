@@ -162,6 +162,6 @@ Fetch → Decode → Execute → (repeat)
 
 ## Related Notes
 - [[Computer Science 07-09-26]]
-- [[Sixth Form/Computer Science/Personal Notes/Processor Performance 2026-09-07]]
+- [[Sixth Form/Computer Science/Computer Science Shared/Personal Notes/Processor Performance 2026-09-07]]
 - [[#Fetch-Execute Cycle]]
 - [[#Dedicated Registers]]
