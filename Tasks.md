@@ -7,16 +7,17 @@ kanban-plugin: board
 ## Urgent/Next day
 
 
+
 ## One week
 
 - [x] Photography destruction mind map 📅 2026-09-14 ✅ 2026-09-09
-- [ ] Computer Science worksheet 🔼 🛫 2026-09-07 ⏳ 2026-09-07 📅 2026-09-14
-- [ ] Maths - Mixed Practice ⏫ 📅 2026-09-18
+- [ ] [[Computer Science worksheet📅 2026-09-14]]
+- [x] Maths - Mixed Practice ⏫ 📅 2026-09-18 ✅ 2026-09-10
 	- Optional - Aim to complete all chapter 8 exercise started in class.
 	- Compulsory - Complete the Chapter 8 mixed exercise questions
-
+	
 	- On one note
-
+	
 	- Present the mind maps in a way that represents my topic "To Gut"
 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - computer-science
+---
 Computer Science is using a mathematical principles to solve problems.
 
 1. What information is relevant to solving a particular problem?
