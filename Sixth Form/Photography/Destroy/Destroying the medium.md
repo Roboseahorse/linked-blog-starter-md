@@ -1,6 +1,7 @@
 ---
 tags:
   - Destroy_Nature
+  - photograohy
 ---
 ## Overview 
 I would like to capture a photo of nature being destroyed through a destroyed medium to try and convey the message that nature is actively being destroyed,
