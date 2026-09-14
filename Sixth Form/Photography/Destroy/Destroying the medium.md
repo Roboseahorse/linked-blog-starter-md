@@ -12,4 +12,4 @@ I would like to capture a photo of nature being destroyed through a destroyed me
 
 ### Risk assessment
 - This shoot involves broken and exposed glass so I will wear glass gloves that prevent me from cutting myself on the class while breaking and handling the filter.
-- The location of my shoot, **A log pile** , can also become unsafe, I will not climb on the log piles as they could roll from under me. Additionally if there is any heavy machinery working I will leave and either find another suitable location for my shoot or come back another day.
+- The location of my shoot, **A log pile**, can also become unsafe, I will not climb on the log piles as they could roll from under me. Additionally if there is any heavy machinery working I will leave and either find another suitable location for my shoot or come back another day.
