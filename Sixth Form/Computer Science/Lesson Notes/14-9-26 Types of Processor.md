@@ -43,5 +43,22 @@ A **Graphics processing unit** (GPU) is a specialised electronic circuit which i
 ### Compare co-processor and parallel processor systems 
 
 > [!check] 
-> Both Co-processor and parallel processor systems speed up performance however in a co-processor system there is another processor working alongside the CPU while in a parallel processor system the CPU is doing multiple tasks at the same time
+> Both Co-processor and parallel processor systems speed up performance however in a co-processor system there is another processor working alongside the CPU while in a parallel processor system the CPU is doing multiple tasks at the same time using diffrent cores.
 
+---
+# Input Devices
+
+## Manual input devices 
+- Keyboards and keypads
+- Pointing devices
+- Microphones
+- Touch screens
+- 3D face recognition
+
+## Monitoring and control
+- Monitoring
+	- With these applications, the computer or microprocessor will make no changes to the actual process; it will simply report the values
+- Control
+	- The output from the computer or microprocessor can alter how the process is operating;
+		- it can change the value of the next input received by, for example, opening a valve, switching off a heater or changing the speed of a pump
+			- the output from the computer or micro processor can affect the next input it receives

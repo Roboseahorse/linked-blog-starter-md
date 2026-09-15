@@ -6,10 +6,12 @@ kanban-plugin: board
 
 ## Urgent/Next day
 
+- [ ] Computer Science worksheet ⏫ 📅 2026-09-21
 
 
 ## One week
 
+- [ ] Photography Destroy research slides 🔼 📅 2026-09-21
 	- Present the mind maps in a way that represents my topic "To Gut"
 
 
