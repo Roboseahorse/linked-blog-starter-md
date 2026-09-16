@@ -6,13 +6,10 @@ kanban-plugin: board
 
 ## Urgent/Next day
 
-- [ ] Computer Science worksheet ⏫ 📅 2026-09-21
-
+- [ ] Maths Homework
+- [ ] COmputer science worksheet
 
 ## One week
-
-- [ ] Photography Destroy research slides 🔼 📅 2026-09-21
-	- Present the mind maps in a way that represents my topic "To Gut"
 
 
 ## WEEK+
@@ -36,6 +33,10 @@ kanban-plugin: board
 - [x] Photography destruction mind map 📅 2026-09-14 ✅ 2026-09-09
 - [x] Maths - Mixed Practice ⏫ 📅 2026-09-18 ✅ 2026-09-10
 - [x] [[Homework - Computer Science worksheet📅 2026-09-14]] ✅ 2026-09-10
+- [x] Computer Science worksheet ⏫ 📅 2026-09-21 ✅ 2026-09-16
+- [x] Photography Destroy research slides 🔼 📅 2026-09-21 ✅ 2026-09-16
+	- Present the mind maps in a way that represents my topic "To Gut"
+
 	- On one note
 
 	- Optional - Aim to complete all chapter 8 exercise started in class.
