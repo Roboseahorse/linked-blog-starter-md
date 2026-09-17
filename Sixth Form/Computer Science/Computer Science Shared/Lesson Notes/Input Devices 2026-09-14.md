@@ -11,7 +11,7 @@ Input Devices - OCR A Level Computer Science
 >
 > 3. **State one positive and one negative implication of using GPUs for AI.**
 >    - **Positive:** AI systems can run much faster.
->    - **Negative:** Increased demand raises the cost and availability of GPUs for their original uses, such as gaming and graphics work.
+>    - **Negative:** Increased demand raises the cost and availability of GPUs for their original uses, such as gaming and graphics work. It also uses more energy meaning its more expensive to run.
 
 ## Lesson Objectives
 
