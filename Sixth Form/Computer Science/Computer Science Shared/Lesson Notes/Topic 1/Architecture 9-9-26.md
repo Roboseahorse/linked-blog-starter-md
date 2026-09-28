@@ -2,7 +2,7 @@
 - The most common implantation of this concept is the von Neuman architecture
 
 ## Harvard architecture
-- An alternate model separetes the data and instructions into seprate memories using diffrent buses
+- An alternate model separates the data and instructions into separate memories using different buses
 - Program instructions and data are no longer competing for the same bus
 ### Use of Havard architecture
 - Different sized memories and word lengths can be used for data and instructions
@@ -17,7 +17,7 @@
 - Modern cpu chips often incoprorate aspects of both vo Neuman and Harveard achictecure
 - In desktop computers, there is one main memory for holding both dara and instructions, but **cache memory** is dividied into an **instruction cache and a data cache** so data and instructions are retrieved using Harvard aarchitecture
 ## CISC and RISC
-### RISC
+### CISC
 - In complex instruction set computers CICS, a large instruction set is used to accomplish tasks in as few lines of assembly language as possible
 	- •A **CISC** instruction combines a “load/store” instruction with the instruction that carries out the actual calculation
 ### RISC

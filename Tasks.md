@@ -7,8 +7,6 @@ kanban-plugin: board
 ## Urgent/Next day
 
 - [ ] Maths Homework
-- [ ] Craig and Dave video on teams assignment 🔼
-
 ## One week
 
 
@@ -36,6 +34,7 @@ kanban-plugin: board
 - [x] Computer Science worksheet ⏫ 📅 2026-09-21 ✅ 2026-09-16
 - [x] Photography Destroy research slides 🔼 📅 2026-09-21 ✅ 2026-09-16
 - [x] COmputer science worksheet ✅ 2026-09-17
+- [x] Craig and Dave video on teams assignment 🔼 ✅ 2026-09-18
 
 	- Present the mind maps in a way that represents my topic "To Gut"
 
