@@ -6,15 +6,14 @@ kanban-plugin: board
 
 ## Urgent/Next day
 
-- [ ] Maths Homework
+- [ ] Private Study Work//WC 07/09/26 🔽 📅 2026-10-02
+	- Research previous programming projects to get ideas for a type of project you may want to complete.
+	- Find a course to learn the programming language that lends itself to this style of project.
+
 ## One week
 
 
 ## WEEK+
-
-- [ ] Private Study Work//WC 07/09/26 🔽 📅 2026-10-02
-	- Research previous programming projects to get ideas for a type of project you may want to complete.
-	- Find a course to learn the programming language that lends itself to this style of project.
 
 
 ## Completed
@@ -35,6 +34,7 @@ kanban-plugin: board
 - [x] Photography Destroy research slides 🔼 📅 2026-09-21 ✅ 2026-09-16
 - [x] COmputer science worksheet ✅ 2026-09-17
 - [x] Craig and Dave video on teams assignment 🔼 ✅ 2026-09-18
+- [x] Maths Homework ✅ 2026-09-28
 
 	- Present the mind maps in a way that represents my topic "To Gut"
 
