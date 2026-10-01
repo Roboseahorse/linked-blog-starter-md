@@ -160,8 +160,11 @@ could be used to multiply A by B and store the result back in A.
 
 ### GPU and Parallel Processing
 
+Using parallel processing will allow us to run several concurrent processes, such as multi-tab browsing.
+
 > [!IMPORTANT]
 > GPUs contain thousands of cores and are designed for highly parallel processing tasks.
+> The cores are all running simultaneously to produce a single output, the multiple "channels" are used to produce data quickly. They can be taken advantage by graphics processing, AI, rendering, Raytracing and large mathematical equations.
 
 ### Self-Check
 
