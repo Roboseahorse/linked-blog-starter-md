@@ -2,3 +2,9 @@
 **/**.DS_Store .obsidian/
 .obsidian/
 .obsidian/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

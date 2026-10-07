@@ -76,22 +76,22 @@ Interrupts can have different priorities and are handled according to their prio
 
 ### Processor Scheduling
 
-A single CPU core executes instructions for one process at a time. The OS scheduler decides when each process gets CPU time, quickly switching between processes to support apparent [[Multitasking]].
+A single CPU core executes instructions for one process at a time. The OS scheduler decides when each process gets CPU time, quickly switching between processes to support the illusion [[Multitasking]].
 
-The **scheduler** aims to:
-- Provide acceptable response times
-- Keep the CPU usefully occupied
-- Treat processes or users fairly
+The **scheduler**:
+- Provides acceptable response times
+- Keeps the CPU usefully occupied
+- Treats all processes or users fairly
 
 ### Scheduling Algorithms
 
-| Algorithm | How it works | Key point |
-|---|---|---|
-| **Round Robin** | Processes receive a fixed **time slice** in turn | Pre-emptive and designed to share CPU time |
-| **First Come First Served (FCFS)** | Processes run in arrival order | An early long job can delay everything behind it |
-| **Shortest Job First (SJF)** | The waiting job with the shortest estimated total execution time runs next | Non-pre-emptive |
-| **Shortest Remaining Time (SRT)** | The process with the shortest estimated remaining time runs | Pre-emptive, so a shorter arriving process can take over |
-| **Multi-level Feedback Queues** | Processes move between queues with different priorities | CPU-heavy processes can move down, while long-waiting processes can move up |
+| Algorithm                          | How it works                                                               | Key point                                                                   |
+| ---------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Round Robin**                    | Processes receive a fixed **time slice** in turn                           | Pre-emptive and designed to share CPU time                                  |
+| **First Come First Served (FCFS)** | Processes run in arrival order                                             | An early long job can delay everything behind it                            |
+| **Shortest Job First (SJF)**       | The waiting job with the shortest estimated total execution time runs next | Non-pre-emptive                                                             |
+| **Shortest Remaining Time (SRT)**  | The process with the shortest estimated remaining time runs                | Pre-emptive, so a shorter arriving process can take over                    |
+| **Multi-level Feedback Queues**    | Processes move between queues with different priorities                    | CPU-heavy processes can move down, while long-waiting processes can move up |
 
 ## Round Robin
 

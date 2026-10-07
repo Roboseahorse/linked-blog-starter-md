@@ -1,0 +1,1 @@
+A Device Driver is software that allows the [[Operating System (OS)]] to **communicate with and control a hardware device**, such as a printer, keyboard or graphics card. The driver translates instructions from the operating system into commands that the device can understand. [https://en.wikipedia.org/wiki/Device_driver](https://en.wikipedia.org/wiki/BIOS)

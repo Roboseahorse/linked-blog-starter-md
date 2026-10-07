@@ -1,0 +1,1 @@
+[[CPU]] and [[RAM]] work together to process and store data in a computer. The **[[CPU]] (Central Processing Unit)** fetches, decodes and executes instructions, while **[[Memory]] (RAM)** temporarily stores the data and instructions the CPU needs to access quickly. Data is transferred between the CPU and memory using buses.

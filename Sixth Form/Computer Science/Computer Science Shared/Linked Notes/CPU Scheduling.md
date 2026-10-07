@@ -1,0 +1,1 @@
+CPU Scheduling is the [[Operating System]] method of deciding which process in the **ready queue** should use the [[CPU]] next. The scheduler uses a **scheduling algorithm** to share processor time between processes, helping support [[Multitasking]]

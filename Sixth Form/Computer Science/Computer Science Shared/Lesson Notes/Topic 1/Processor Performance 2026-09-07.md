@@ -84,7 +84,7 @@ Example:
 
 ### 2. Number of Cores
 - Modern processors often contain multiple cores.
-- Each core can run its own [[Processor Components 2026-09-03#Fetch-Execute Cycle|fetch-execute cycle]].
+- Each core can run its own [[Sixth Form/Computer Science/Computer Science Shared/Lesson Notes/Topic 1/Processor Components 2026-09-03#Fetch-Execute Cycle|fetch-execute cycle]].
 
 | Processor Type | Number of Cores |
 | -------------- | --------------- |
@@ -161,7 +161,7 @@ Example:
 
 ## Related Notes
 - [[CPU]]
-- [[Processor Components 2026-09-03#Fetch-Execute Cycle|Fetch-Execute Cycle]]
+- [[Sixth Form/Computer Science/Computer Science Shared/Lesson Notes/Topic 1/Processor Components 2026-09-03#Fetch-Execute Cycle|Fetch-Execute Cycle]]
 - [[Computer Science 07-09-26#Words|Memory]]
 - [[Assembly Language]]
 - [[Computer Architecture]]
@@ -251,7 +251,7 @@ Example:
 
 ### 2. Number of Cores
 - Modern processors often contain multiple cores.
-- Each core can run its own [[Processor Components 2026-09-03#Fetch-Execute Cycle|fetch-execute cycle]].
+- Each core can run its own [[Sixth Form/Computer Science/Computer Science Shared/Lesson Notes/Topic 1/Processor Components 2026-09-03#Fetch-Execute Cycle|fetch-execute cycle]].
 
 | Processor Type | Number of Cores |
 | -------------- | --------------- |
@@ -328,7 +328,7 @@ Example:
 
 ## Related Notes
 - [[CPU]]
-- [[Processor Components 2026-09-03#Fetch-Execute Cycle|Fetch-Execute Cycle]]
+- [[Sixth Form/Computer Science/Computer Science Shared/Lesson Notes/Topic 1/Processor Components 2026-09-03#Fetch-Execute Cycle|Fetch-Execute Cycle]]
 - [[Computer Science 07-09-26#Words|Memory]]
 - [[Assembly Language]]
 - [[Computer Architecture]]

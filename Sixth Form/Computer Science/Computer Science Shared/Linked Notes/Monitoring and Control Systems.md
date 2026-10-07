@@ -1,0 +1,1 @@
+Monitoring and Control Systems use https://en.wikipedia.org/wiki/Sensor to collect data from the environment. **Monitoring systems** measure and report conditions for a user to act on, while **control systems** automatically use the data to make changes through output devices, such as actuators. https://en.wikipedia.org/wiki/Control_system

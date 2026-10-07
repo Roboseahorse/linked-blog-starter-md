@@ -1,0 +1,1 @@
+Multitasking is the [Operating System (OS)](https://www.britannica.com/technology/multitasking) method of allowing multiple tasks or processes to share processing resources—like the CPU and main memory—so they appear to run at the same time. [https://en.wikipedia.org/wiki/Computer_multitasking](https://www.scribd.com/document/126981114/Computer-Multitasking)

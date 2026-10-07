@@ -1,0 +1,1 @@
+Input and Output Devices are pieces of [hardware](https://en.wikipedia.org/wiki/Computer_hardware) that uter to communicate with the outside world. **Input devices** send data into a computer, such as a keyboard, mouse or microphone, while **output devices** receive data from a computer, such as a monitor, printer or speakers. https://en.wikipedia.org/wiki/Input/output

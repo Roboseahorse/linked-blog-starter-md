@@ -1,0 +1,1 @@
+Virtual Memory is the [Operating System (OS)](https://www.ibm.com/think/topics/virtual-memory) method of using part of secondary storage, such as an HDD or SSD, as if it were extra main memory (RAM) when RAM is limited, allowing more or larger programs to run at the same time. [https://en.wikipedia.org/wiki/Virtual_memory](https://en.wikipedia.org/wiki/Virtual_memory)
